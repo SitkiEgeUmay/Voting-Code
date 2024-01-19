@@ -11,4 +11,3 @@ elif result_percentage > 50:
     print("ACCEPTED")
 else:
     print("INVALID VOTE")
-2
